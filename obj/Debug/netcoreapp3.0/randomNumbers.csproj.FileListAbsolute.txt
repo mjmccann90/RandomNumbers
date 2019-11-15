@@ -1,0 +1,11 @@
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.deps.json
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.runtimeconfig.json
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.runtimeconfig.dev.json
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.dll
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.pdb
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.csprojAssemblyReference.cache
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.AssemblyInfoInputs.cache
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.AssemblyInfo.cs
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.dll
+/Users/markmccann/workspace/csharp/exercises/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.pdb
